@@ -10,6 +10,7 @@ Source0: %{name}-%{version}.tar.bz2
 License: Artistic
 Group: Networking/File transfer
 Url: http://zsync.moria.org.uk/
+BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 zsync is a file transfer program. It allows you to download a file from a
