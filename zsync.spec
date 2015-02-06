@@ -1,6 +1,6 @@
 %define name zsync
 %define version 0.6.2
-%define release %mkrel 1
+%define release 2
 
 Summary: An rsync like transfer software over http
 Name: %{name}
