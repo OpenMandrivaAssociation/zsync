@@ -5,7 +5,7 @@ Release: 2
 Source0: http://zsync.moria.org.uk/download/zsync-%{version}.tar.bz2
 License: Artistic
 Group: Networking/File transfer
-Url: http://zsync.moria.org.uk/
+Url: https://zsync.moria.org.uk/
 
 %description
 zsync is a file transfer program. It allows you to download a file
