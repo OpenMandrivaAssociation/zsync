@@ -1,7 +1,7 @@
 Summary: An rsync like transfer software over http
 Name: zsync
-Version: 0.6.2
-Release: 2
+Version: 0.6.3
+Release: 1
 Source0: http://zsync.moria.org.uk/download/zsync-%{version}.tar.bz2
 License: Artistic
 Group: Networking/File transfer
