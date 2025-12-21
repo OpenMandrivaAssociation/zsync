@@ -7,6 +7,11 @@ License: Artistic
 Group: Networking/File transfer
 Url: https://zsync.moria.org.uk/
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 zsync is a file transfer program. It allows you to download a file
 from a remote web server, where you have a copy of an older version of
